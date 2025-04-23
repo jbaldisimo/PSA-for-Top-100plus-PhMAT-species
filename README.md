@@ -1,5 +1,7 @@
-# GMM-for-PhilippinesPSA
+# PSA for Top 100+ Fishes in the Philippine Marine Ornamental Trade
 
-This repository includes the R code used for applying a a Guassian Mixture Model in the Mclust package on R to cluster datapoints in the Productivity-Susceptibility Analysis conducted for the top 100+ species in the Philippine marine ornamental trade.
+This repository includes the R code used for the Productivity Susceptibility Analysis conducted for the top 100+ fishes in the Philippine Marine Ornamental Trade.
 
-The input file (PSAscoresPH.csv) is attached, as well as the resulting table showing the clusters & categories (PSAresults.csv) & the graph (Gmm Clustering PSA PH.png).
+After data was collated, an R code applying a a Guassian Mixture Model in the Mclust package was used to cluster datapoints in the Productivity-Susceptibility Analysis conducted for the top 100+ species in the Philippine marine ornamental trade. The input file (PSAscoresPH.csv) is attached, as well as the resulting table showing the clusters & categories (PSAresults.csv) & the graph (Gmm Clustering PSA PH.png).
+
+A summary for Vulnerability scores per Family is also included in this page where data was wrangled to show the range of V, mean V, and V for each species. The R code used to visualize this data (VbyFamily.R) is also included in this page, along with the input data (FamilyV.csv) & resulting plot (VbyFamily.png).
