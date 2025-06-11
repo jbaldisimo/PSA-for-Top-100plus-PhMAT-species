@@ -1,4 +1,4 @@
-﻿Species,Family,Vulnerability
+Species,Family,Vulnerability
 Chromis viridis,Pomacentridae,0.566433482
 Chrysiptera parasema,Pomacentridae,0.896930322
 Dascyllus aruanus,Pomacentridae,0.566433482
@@ -9,7 +9,6 @@ Amphiprion ocellaris,Pomacentridae,0.697218342
 Synchiropus splendidus,Callionymidae,0.856098329
 Sphaeramia nematoptera,Apogonidae,0.896930322
 Pseudocheilinus hexataenia,Labridae,0.896930322
-Chrysiptera hemicyanea,Pomacentridae,1.05708236
 Centropyge bispinosa,Pomacanthidae,0.93823232
 Salarias fasciatus,Blenniidae,1.040032259
 Paracanthurus hepatus,Acanthuridae,1.518576518
@@ -30,7 +29,7 @@ Siganus vulpinus,Siganidae,0.566433482
 Nemateleotris decora,Microdesmidae,1.088034187
 Naso lituratus,Acanthuridae,0.946745513
 Gobiodon histrio,Gobiidae,1.131941324
-Abudefduf vaigiensis,Pomacentridae,0.684457552
+Abudefduf vaigiensis,Pomacentridae,0.474403034
 Odonus niger,Balistidae,0.925208328
 Pictichromis diadema,Pseudochromidae,0.93823232
 Chelmon rostratus,Chaetodontidae,0.865631975
@@ -75,7 +74,7 @@ Ptereleotris evides,Microdesmidae,0.896930322
 Stonogobiops xanthorhinica,Gobiidae,0.892266819
 Cryptocentrus leptocephalus,Gobiidae,0.813731443
 Neoglyphidodon oxyodon,Pomacentridae,0.888262602
-Centropyge ferrugata,Pomacanthidae,1.269189003
+Centropyge ferrugata,Pomacanthidae,1.131941324
 Paracheilinus carpenteri,Labridae,0.830836808
 Chrysiptera talboti,Pomacentridae,0.397611445
 Chaetodon xanthurus,Chaetodontidae,1.09854927
@@ -91,7 +90,7 @@ Gobiodon okinawae,Gobiidae,0.997605532
 Dendrochirus brachypterus,Scorpaenidae,1.114141019
 Rhinecanthus verrucosus,Balistidae,0.744121527
 Valenciennea wardii,Gobiidae,0.691303598
-Stegastes fasciolatus,Pomacentridae,0.727006783
+Stegastes fasciolatus,Pomacentridae,0.566433482
 Paracheilinus filamentosus,Labridae,0.76153889
 Chaetodon auriga,Chaetodontidae,1.114141019
 Cirrhilabrus lubbocki,Labridae,0.635864736
@@ -99,6 +98,7 @@ Amphiprion perideraion,Pomacentridae,0.697218342
 Ostorhinchus cyanosoma,Apogonidae,0.931008903
 Ptereleotris heteroptera,Microdesmidae,1.385131422
 Chaetodon punctatofasciatus,Chaetodontidae,1.09854927
+Pomacanthus semicirculatus,Pomacanthidae,1.324272581
 Chaetodon lunula,Chaetodontidae,1.114141019
 Apolemichthys trimaculatus,Pomacanthidae,0.865631975
-Chaetodontoplus caerulopunctatus,Pomacanthidae,0.87247104
+Chaetodontoplus caeruleopunctatus,Pomacanthidae,0.87247104
