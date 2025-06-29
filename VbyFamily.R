@@ -65,3 +65,8 @@ ggplot() +
     panel.grid.minor.y = element_blank(),
     plot.title = element_text(hjust=0.5)
   )
+
+#5. Save mean V for each Family
+write.csv(summary_stats[, c("Family", "mean_v")],
+          file = "/Users/findingjemo/Documents/PSA/PH/MeanV_per_Family.csv",
+          row.names = FALSE)
