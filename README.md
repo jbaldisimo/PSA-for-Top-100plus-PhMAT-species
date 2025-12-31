@@ -1,8 +1,8 @@
 # PSA for Top 100+ Fishes in the Philippine Marine Ornamental Trade
 
-This repository includes the R code used for the Productivity Susceptibility Analysis conducted for the top 100+ fishes in the Philippine Marine Ornamental Trade.
+This repository includes the data & R code used for the Productivity Susceptibility Analysis conducted for the top 100+ fishes in the Philippine Marine Ornamental Trade.
 
-This repository describes how the following were done:
+A description of how the following were done is available:
 1. GMM clustering for Vulnerability categories
 2. Summarizing V scores per Family
 3. Conducting Statistical Tests comparing National & Global PSA scores
